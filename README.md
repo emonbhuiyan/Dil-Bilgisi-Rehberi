@@ -20,11 +20,11 @@ At the moment, the website supports:
 - A2
 - B1
 - B2
+- C1
 
 The structure is already prepared so future levels can be added easily, including:
-
-- C1
 - C2
+
 
 ## Features
 
@@ -55,7 +55,9 @@ The structure is already prepared so future levels can be added easily, includin
 │   ├── B1_Grammar.md
 │   ├── B1_Vocabulary.md
 │   ├── B2_Grammar.md
-│   └── B2_Vocabulary.md
+│   ├── B2_Vocabulary.md
+│   ├── C1_Grammar.md
+│   └── C1_Vocabulary.md
 └── assets/
     ├── logo.png
     ├── favicon.ico
@@ -88,6 +90,8 @@ B1_Grammar.md
 B1_Vocabulary.md
 B2_Grammar.md
 B2_Vocabulary.md
+C1_Grammar.md
+C1_Vocabulary.md
 ```
 
 Supported levels:
