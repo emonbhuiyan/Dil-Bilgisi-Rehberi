@@ -204,3 +204,5 @@ instead of copying large portions from the original book.
 ## Author
 
 Created by **Emon Bhuiyan** as a Turkish study helper project.
+
+<!-- GitAds-Verify: 3629WLVBGZ89LVLGYKLP9XN47PYYZXQH -->
