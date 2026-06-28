@@ -542,6 +542,3 @@ These structures mean **on condition that / provided that**.
 ---
 
 *This summary is designed to be clear and concise for your study notes.*
-
---- 
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=emonbhuiyan/dil-bilgisi-rehberi@github)](https://gitads.dev/v1/ad-track?source=emonbhuiyan/dil-bilgisi-rehberi@github)
