@@ -201,8 +201,8 @@ instead of copying large portions from the original book.
 - Improved progress system
 - More structured content formatting
 
-## Author
-
-Created by **Emon Bhuiyan** as a Turkish study helper project.
-
 <!-- GitAds-Verify: 3629WLVBGZ89LVLGYKLP9XN47PYYZXQH -->
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=emonbhuiyan/dil-bilgisi-rehberi@github)](https://gitads.dev/v1/ad-track?source=emonbhuiyan/dil-bilgisi-rehberi@github)
+
